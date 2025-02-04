@@ -1,0 +1,9 @@
+# ROS 2 build and install folders
+build/
+install/
+log/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
