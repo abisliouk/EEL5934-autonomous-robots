@@ -2,13 +2,6 @@
 
 This repository contains assignments for the [EEL 5934 Autonomous Robots](https://www.ece.ufl.edu/) course at the University of Florida. The assignments focus on key robotics topics such as camera interfacing, image processing, and control.
 
-## 🖥️ System Information
-- **Hardware:** MacBook M1
-- **Operating System:** macOS 14.6.1 (23G93)
-- **Virtual Machine:** Parallels Desktop 18
-- **Guest OS:** Ubuntu 22.04 (Jammy)
-- **ROS Version:** ROS 2 Humble
-
 ## 📌 Assignments Overview
 
 ### **1st Assignment: Camera Interfacing in ROS**
